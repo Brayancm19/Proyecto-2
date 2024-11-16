@@ -1,7 +1,7 @@
 <?php
 class Database {
     private $host = "localhost";
-    private $db_name = "practica";
+    private $db_name = "tiendaropa";  // Cambia el nombre de la base de datos
     private $username = "root";
     private $password = "";
     public $conn;
